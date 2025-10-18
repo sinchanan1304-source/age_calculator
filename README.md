@@ -1,6 +1,5 @@
 # Age Calculator with Modern GUI
 
-![Age Calculator Screenshot](screenshot.png)  <!-- Add your screenshot here -->
 
 A simple and modern **Age Calculator** built with **Python** and **Tkinter**. This project allows users to calculate their age in **years, months, and days** by selecting their date of birth. The GUI is designed to be clean, attractive, and user-friendly, suitable for school/college projects.
 
