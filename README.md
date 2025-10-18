@@ -23,10 +23,3 @@ A simple and modern **Age Calculator** built with **Python** and **Tkinter**. Th
 - **datetime** – For date calculations
 
 ---
-
-## Installation & Setup
-
-1. **Clone the repository** (or download the files):
-
-```bash
-git clone https://github.com/yourusername/age-calculator.git
